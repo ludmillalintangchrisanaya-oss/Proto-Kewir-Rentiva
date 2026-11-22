@@ -1,0 +1,6 @@
+{
+  "name": "Rentiva",
+  "description": "Marketplace rental terverifikasi di Yogyakarta — Cukup Sewa, Tidak Perlu Beli. Sewa kamera, perlengkapan outdoor, dan perlengkapan bayi dengan perlindungan escrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
